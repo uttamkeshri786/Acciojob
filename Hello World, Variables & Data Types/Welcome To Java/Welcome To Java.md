@@ -8,7 +8,7 @@ Complete the code by copying the two lines of code below and pasting them inside
 ```
 System.out.println("Hello, World.");
 System.out.println("Hello, Java.");
-``
+```
 ## Input Format
 There is no input for this challenge.
 
@@ -23,7 +23,7 @@ Print Hello, Java. on the second line.
 ```
 Hello, World.
 Hello, Java.
-``
+```
 ## Common Mistakes -
 • Make sure you match the exact output required in question, taking care of commas, spaces and full stop exactly. <br />
 • Make sure you use S(capital) in System
