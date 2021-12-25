@@ -1,5 +1,5 @@
 # Welcome To Java
-----------------------------------------------------------------------------------------------------------------------------------
+
 Welcome to the world of Java!
 
 In this challenge, you will learn how to print “Hello World!” in standard output (stdout).
@@ -25,5 +25,5 @@ Hello, World.
 Hello, Java.
 ``
 ## Common Mistakes -
-• Make sure you match the exact output required in question, taking care of commas, spaces and full stop exactly.
+• Make sure you match the exact output required in question, taking care of commas, spaces and full stop exactly. <br />
 • Make sure you use S(capital) in System
