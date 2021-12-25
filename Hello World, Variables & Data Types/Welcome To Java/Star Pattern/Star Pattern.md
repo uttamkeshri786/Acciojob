@@ -2,10 +2,10 @@
 
 In this task, you need to print a right-angled triangle of height 3 (lines) and base 5 (stars).
 
-## User Task:
+### User Task:
 No input. You just need to print out the triangle using System.out.println in Java.
 
-## Output:
+### Output:
 Print the triangle of height 3 and base 5 as shown. <br />
 Illustration:
 ```
