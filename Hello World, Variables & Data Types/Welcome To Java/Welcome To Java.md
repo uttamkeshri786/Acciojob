@@ -9,23 +9,23 @@ Complete the code by copying the two lines of code below and pasting them inside
 System.out.println("Hello, World.");
 System.out.println("Hello, Java.");
 ```
-## Input Format
+### Input Format
 There is no input for this challenge.
 
-## Output Format
+### Output Format
 You must print two lines of output:
 
 Print Hello, World. on the first line.
 
 Print Hello, Java. on the second line.
 
-## Sample Output
+### Sample Output
 ```
 Hello, World.
 Hello, Java.
 ```
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Common Mistakes -
+### Common Mistakes -
 - Make sure you match the exact output required in question, taking care of commas, spaces and full stop exactly. <br />
 - Make sure you use S(capital) in System
