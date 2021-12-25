@@ -14,6 +14,6 @@ Illustration:
 *****
 ```
 
-## Common Mistakes -
+### Common Mistakes -
 - You do not need for loop here. Just use System.out.println()
 <p align="right">(<a href="#top">back to top</a>)</p>
