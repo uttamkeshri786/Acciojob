@@ -8,8 +8,8 @@ Note:- Consider non-leap year
 Since this is a functional problem you do not have to worry about the input. You just have to complete the function numberofdays() which contains M as a parameter.
 
 ### Constraints
-1 <= M <= 12 <br />
-Example:<br />
+1 <= M <= 12 <br /><br />
+#### Example:<br />
 ### Sample Input
 ```
 1
